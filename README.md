@@ -1,3 +1,5 @@
-# zid-dsa-trees-starter
+## DSA Trees Binary Search Tree
 
-This repo contains the starter code for the Trees module of the Data Structures & Algorithms phase of the program.
+Methods for a BST to allow insert, find, & remove.
+
+Helper methods created to help with replacing and finding minimum values
